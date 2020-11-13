@@ -1,0 +1,2 @@
+# Kang-galon
+Penambang bitcoin
